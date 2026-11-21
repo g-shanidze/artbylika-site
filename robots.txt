@@ -1,0 +1,7 @@
+# Content signals (contentsignals.org): search = search indexing,
+# ai-input = use in AI answers, ai-train = training AI models.
+User-agent: *
+Content-Signal: search=yes, ai-train=no
+Allow: /
+
+Sitemap: https://www.likashkhvatsabaia.com/sitemap-index.xml
